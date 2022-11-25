@@ -1,0 +1,9 @@
+
+=== Wed Nov 16 09:31:05 2022
+
+Packages were changed.
+Update Mode: resetToDefaultDependencies
+
+The following packages were removed:
+  com.unity.cinemachine@2.8.9
+  com.unity.feature.development@1.0.1
